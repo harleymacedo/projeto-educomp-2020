@@ -1,0 +1,21 @@
+{
+  "name": "projeto-educomp-2020",
+  "version": "1.0.0",
+  "description": "Projeto para congresso científico EduComp 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Congresso",
+    "Científico",
+    "Educomp",
+    "2020"
+  ],
+  "author": "Harley Macedo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
